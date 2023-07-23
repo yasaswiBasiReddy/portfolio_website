@@ -5,3 +5,4 @@
 ![card-2](https://github.com/yasaswiBasiReddy/portfolio_website/assets/106327685/91a6594f-bccc-4540-8779-75692234f3bb)
 ![card-3](https://github.com/yasaswiBasiReddy/portfolio_website/assets/106327685/64cec2c4-fe42-4657-958f-1345c4076188)
 ![card-4](https://github.com/yasaswiBasiReddy/portfolio_website/assets/106327685/204d6eb4-6cb8-48d5-96d5-44377eb18dfb)
+![passportPicture](https://github.com/yasaswiBasiReddy/portfolio_website/assets/106327685/26560c52-9d88-4f93-b851-2d04d8786de7)
